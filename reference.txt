@@ -1,0 +1,98 @@
+    1  pwd
+    2  whoami
+    3  whereami
+    4  hostname -i
+    5  hostname
+    6  mkdir Example
+    7  rm -rf
+    8  rm -rf Example
+    9  ls -lrt
+   10  chmod 754 hh.txt
+   11  ls -lrt
+   12  chmod 754 hh.txt
+   13  ls -lrt
+   14  chown dummyowner:197608 hh.txt
+   15  cd /var/usr
+   16  git init
+   17  git clone https://github.com/leenap4/sumanth.git
+   18  git clone https://github.com/leenap4/Peachy.git
+   19  ls -lrt
+   20  cd Peachy
+   21  git checkout master
+   22  git checkout
+   23  git checkout -b master
+   24  git config --global user.name
+   25  git config --global user.name leenap4
+   26  git config --global user.email leenapulagura27@gmail.com
+   27  git config credential.helper store
+   28  mkdir nothing
+   29  git add
+   30  git add nothing
+   31  git status
+   32  cd nothing
+   33  vi Testing.txt
+   34  git add Testing.txt
+   35  git status
+   36  git commit -m "This file is a refrerence of my new project."
+   37  git push --origin master
+   38  git push --origin master https://github.com/leenap4/Peachy.git
+   39  git push https://github.com/leenap4/Peachy.git
+   40  rm Testing.txt 
+   41  ls -lrt
+   42  vi Reference2.txt
+   43  git add Reference2.txt
+   44  git status
+   45  git commit -m 
+   46  git commit -m "This is my new file"
+   47  git push https://github.com/leenap4/Peachy.git
+   48  git checkout -b Abhi
+   49  vi Reference3.txt
+   50  vi Reference3.txt
+   51  git add .
+   52  git commit -m
+   53  git commit -m "Thats my chitti kutti"
+   54  git push
+   55  git push https://github.com/leenap4/Peachy.git
+   56  exit
+   57  exit
+   58  git checkout -b mybranch
+   59  cd C:\Users\ACER\Peachy
+   60  cd C:/Users/ACER/Peachy
+   61  git checkout mybranch
+   62  git checkout master
+   63  git checkout -b pallavika
+   64  ls -lrt
+   65  cd nothing
+   66  cd .. | ls -lrt
+   67  pwd
+   68  cd .. | ls -lrt
+   69  mkdir aparna | ls -lrt
+   70  ls -lrt
+   71  cd pallavika
+   72  cd aparna
+   73  cd pallavika
+   74  vi leena
+   75  vi leena.txt
+   76  git add .
+   77  git status
+   78  git commit -m "This is my second day in GitHub"
+   79  git push https://github.com/leenap4/Peachy.git
+   80  git checkout master
+   81  git stash
+   82  git checkout master
+   83  git merge pallavika
+   84  cd ../..
+   85  git merge pallavika
+   86  git branch
+   87  vi newfile.txt
+   88  git add .
+   89  git commit
+   90  git push
+   91  git push https://github.com/leenap4/Peachy.git
+   92  ls -lrt
+   93  git pull https://github.com/leenap4/Peachy.git
+   94  ls -lrt
+   95  git log
+   96  history
+   97  history | >> reference.txt
+   98  history >> reference.txt
